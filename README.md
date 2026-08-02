@@ -60,14 +60,6 @@ AI • Data Science • Full Stack Developer
 
 ---
 
-### 🤖 RAG-Based AI Document Chatbot
-
-- Chat with PDFs
-- Semantic Search
-- Vector Database
-- Retrieval-Augmented Generation
-- FastAPI + React
-
 ---
 
 ### 🌐 Full Stack Applications
@@ -117,35 +109,15 @@ AI • Data Science • Full Stack Developer
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarthakkgupta25&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sarthakkgupta25&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkgupta25&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sarthakkgupta25&theme=tokyonight"/>
-
-</p>
 
 ---
 
